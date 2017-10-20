@@ -1,0 +1,17 @@
+{
+  "name": "AngularMDUI",
+  "version": "1.0.0",
+  "authors": [
+    "xuxl <xuxle@yonyou.com>"
+  ],
+  "description": "AngularMDUI",
+  "main": "app.js",
+  "keywords": [
+    "AngularMDUI"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "mdui": "^0.3.0",
+    "angular-ui-router": "^1.0.10"
+  }
+}
